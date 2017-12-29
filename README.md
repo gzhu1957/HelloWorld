@@ -1,2 +1,3 @@
 # HelloWorld
-this is the first testing project saved in GitHub - hello
+
+This is edited note in the master readme file - I like the node/branch concept. thanks
